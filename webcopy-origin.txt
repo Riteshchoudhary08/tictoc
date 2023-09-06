@@ -1,0 +1,108 @@
+Uri: https://analytics-tracker-js.s3.ap-south-1.amazonaws.com/vojon-tech-tracker.js
+File Name: C:\ritesh\ccirivalipark.projectsite.in\vojon-tech-tracker.js
+Content Type: application/javascript
+
+Uri: https://ccirivalipark.projectsite.in/
+File Name: C:\ritesh\ccirivalipark.projectsite.in\index.htm
+Content Type: text/html
+
+Uri: https://ccirivalipark.projectsite.in/assets/css/style.css
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\css\style.css
+Content Type: text/css
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/micon.woff
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\micon.woff
+Content Type: font/woff
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/micon.woff2
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\micon.woff2
+Content Type: font/woff2
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/muli-variablefont_wght-webfont.woff
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\muli-variablefont_wght-webfont.woff
+Content Type: font/woff
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/muli-variablefont_wght-webfont.woff2
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\muli-variablefont_wght-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/roboto-bold-webfont.woff
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\roboto-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/roboto-bold-webfont.woff2
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\roboto-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/roboto-regular-webfont.woff
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\roboto-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://ccirivalipark.projectsite.in/assets/fonts/roboto-regular-webfont.woff2
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\fonts\roboto-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/comman/logo.png
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\comman\logo.png
+Content Type: image/png
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/comman/logo.svg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\comman\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g1.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g2.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g3.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g4.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g5.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g5.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g6.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g6.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g7.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g7.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/g8.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\g8.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/lp.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\lp.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/img/mp.jpg
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\img\mp.jpg
+Content Type: image/jpeg
+
+Uri: https://ccirivalipark.projectsite.in/assets/js/app.js
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://ccirivalipark.projectsite.in/assets/plugins/intTelInput/flags.png
+File Name: C:\ritesh\ccirivalipark.projectsite.in\assets\plugins\intTelInput\flags.png
+Content Type: image/png
+
+Uri: https://ccirivalipark.projectsite.in/index.htm
+File Name: C:\ritesh\ccirivalipark.projectsite.in\index-1.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-10876773938
+File Name: C:\ritesh\ccirivalipark.projectsite.in\gtag\js
+Content Type: application/javascript
+
